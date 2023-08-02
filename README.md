@@ -1,4 +1,4 @@
-## Movie Recommendation System Project
+## Movie Recommendation System
 This repository contains the code and documentation for a Movie Recommendation System project implemented using machine learning techniques. The recommendation system suggests movies to users based on their preferences and viewing history. The project is implemented in a Jupyter Notebook environment and utilizes various libraries and algorithms to achieve its goal.
 
 ## Table of Contents
